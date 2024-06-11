@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n4/BdeHCPqPv2l8l0xOh44LCb/OKRCSbKzaEpz0bmVY=",
+  "Source": "getflightsbackend",
+  "BasePath": "_content/getflightsbackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

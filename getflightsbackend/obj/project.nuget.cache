@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "FI0pTJlAJmhAfJ+2TusAQ8ZDL5/2Ee9a1A3sG+mpF14C8CFBb2axYoT6k13ylIIgP76OXfaYo4x59DW3ud2sLw==",
+  "success": true,
+  "projectFilePath": "/Users/nirvaknin/Desktop/nir/getflightsbackend/getflightsbackend/getflightsbackend.csproj",
+  "expectedPackageFiles": [
+    "/Users/nirvaknin/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "/Users/nirvaknin/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/nirvaknin/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/Users/nirvaknin/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/nirvaknin/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/Users/nirvaknin/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/Users/nirvaknin/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
